@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+}
+
+figure {
+    width: 100px;
+    height: 100px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h1 {
+    color: white;
+    text-align: right;
+    font-size: 75px;
+}
+
+#para1 {
+    color: white;
+    text-align: right;
+    font-size: 25px
+}
+
+h3 { 
+    color:white;
+    text-align: left;
+    font-size: 45px;
+}
+
+#para2 {
+    color: white;
+    text-align: justify;
+    font-size: 30px
+}
+
+h4 {
+    color: white;
+    font-size: 30px
+}
+
+ul {
+    color: white;
+    font-size: 30px
+}
+
+#para3 {
+    color: white;
+    text-align: right;
+    text-transform: capitalize;
+    font-size: 20px;
+}
